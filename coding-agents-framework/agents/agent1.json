@@ -1,6 +1,0 @@
-{
-  "role": "Code Generator",
-  "instructions": "Generate code snippets based on user prompts.",
-  "tool": "groq_code_generator",
-  "activation_string": "generate code: "
-}

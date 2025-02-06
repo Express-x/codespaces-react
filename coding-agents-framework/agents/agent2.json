@@ -1,6 +1,0 @@
-{
-  "role": "Code Analyzer",
-  "instructions": "Analyze code for potential issues and suggest improvements.",
-  "tool": "groq_code_analyzer",
-  "activation_string": "analyze code: "
-}
